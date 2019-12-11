@@ -1,7 +1,6 @@
 {
   "name": "react-proj",
   "version": "0.1.0",
-  "private": true,
   "repository": {
     "url": "https://github.com/catmcgarvey/react-proj.git"
   },
